@@ -562,6 +562,7 @@ $wgConf->settings = array(
 		'default' => false,
 		'allthetropeswiki' => true,
 		'extloadwiki' => true,
+                'idtestwiki' => true,
 		'ndtestwiki' => true,
 	),
 	'wmgUseScribunto' => array(
